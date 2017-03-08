@@ -1,0 +1,92 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<diagram program="umletino" version="14.2">
+<zoom_level>10</zoom_level>
+<element>
+<id>UMLDeployment</id>
+<coordinates>
+<x>230</x>
+<y>60</y>
+<w>380</w>
+<h>210</h>
+</coordinates>
+<panel_attributes><<SO>> Windows 7 ou superior</panel_attributes>
+<additional_attributes/>
+</element>
+<element>
+<id>UMLGeneric</id>
+<coordinates>
+<x>340</x>
+<y>160</y>
+<w>140</w>
+<h>40</h>
+</coordinates>
+<panel_attributes><<Aplicação Java>> Saudação Cliente</panel_attributes>
+<additional_attributes/>
+</element>
+<element>
+<id>UMLDeployment</id>
+<coordinates>
+<x>210</x>
+<y>370</y>
+<w>430</w>
+<h>290</h>
+</coordinates>
+<panel_attributes><<Computador Servidor>></panel_attributes>
+<additional_attributes/>
+</element>
+<element>
+<id>UMLDeployment</id>
+<coordinates>
+<x>240</x>
+<y>430</y>
+<w>370</w>
+<h>200</h>
+</coordinates>
+<panel_attributes><<Servidor >> Windows 7 ou superior</panel_attributes>
+<additional_attributes/>
+</element>
+<element>
+<id>UMLGeneric</id>
+<coordinates>
+<x>310</x>
+<y>500</y>
+<w>200</w>
+<h>80</h>
+</coordinates>
+<panel_attributes><<Aplicação Java>> Saudação Server</panel_attributes>
+<additional_attributes/>
+</element>
+<element>
+<id>Relation</id>
+<coordinates>
+<x>390</x>
+<y>190</y>
+<w>100</w>
+<h>270</h>
+</coordinates>
+<panel_attributes>Endereço IP</panel_attributes>
+<additional_attributes>10;10;10;250</additional_attributes>
+</element>
+<element>
+<id>UMLDeployment</id>
+<coordinates>
+<x>220</x>
+<y>30</y>
+<w>430</w>
+<h>280</h>
+</coordinates>
+<panel_attributes><<Computador Cliente>></panel_attributes>
+<additional_attributes/>
+</element>
+<element>
+<id>UMLDeployment</id>
+<coordinates>
+<x>220</x>
+<y>30</y>
+<w>430</w>
+<h>280</h>
+</coordinates>
+<panel_attributes><<Computador Cliente>></panel_attributes>
+<additional_attributes/>
+</element>
+</diagram>
